@@ -61,10 +61,6 @@ Hover (or tap, on mobile) over any person or house:
 - **Keys 1–7** switch powers quickly
 - Event log (bottom left) tells the island's story as it happens
 
-## 🌐 Host it for free
-
-This repo is GitHub Pages-ready.
-
 ---
 
 ## 📜 Credits
