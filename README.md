@@ -6,7 +6,7 @@ A tiny god game that runs entirely in your browser. You hover above a hand-paint
 
 > **🤖 Made by AI:** This game was designed, written, and tested by **Claude Fable 5** (Anthropic's AI model), based on ideas and direction from [@08Robfin](https://github.com/08Robfin). Every mechanic, sprite, and line in it came from the AI.
 
-**▶️ Play it:** open `index.html` in any modern browser — no install, no internet, no dependencies. Works on desktop and mobile.
+**▶️ Play it:** open https://08robfin.github.io/lillegud/ in any modern browser — no install, no internet, no dependencies. Works on desktop and mobile.
 
 ---
 
